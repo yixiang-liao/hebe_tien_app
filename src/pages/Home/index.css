@@ -1,0 +1,50 @@
+.header{
+    text-align: center;
+    background-color: #7B7B7B;
+    margin-top: 0px;
+    color: white;
+    font-size: 30px;
+    padding: 10px;
+}
+.album{
+    margin: 10px;
+    width: 300px;
+    border-style: solid;
+    border-width: 2pt;
+    border-color: #D0D0D0;
+    border-radius: 5px;
+}
+.album_img{
+    width: 300px;
+}
+.album_name{
+    font-weight: bolder;
+    font-size: 20px;
+}
+.album_price{
+    font-size: 18px;
+    background-color: red;
+    width: 60px;
+    text-align: center;
+    font-weight: bolder;
+    color: white;
+    border-radius: 5px;
+    margin-top: 3px;
+    margin-bottom: 5px;
+}
+.Edit{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.shop{
+    font-family: 微軟正黑體;
+    font-weight: bold;
+    background-color: cadetblue;
+    width: 90px;
+    text-align: center;
+    color: white;
+    border-radius: 5px;
+    padding: 5px;
+    margin-top: 10px;
+}
